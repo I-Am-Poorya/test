@@ -24,6 +24,5 @@ for `project`
 
 - react js
 
-[kavirTaier](https://kavirtire.ir/)
+[deploy](https://i-am-poorya.github.io/test/)
 
-![github](images/1718558869453.png)
